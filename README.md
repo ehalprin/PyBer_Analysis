@@ -37,6 +37,12 @@ After uncovering the initial differences in rides, drivers, and fares by city ty
 
 ## Summary
 
+### Overview of Disparities
+
+Overall, it is clear that using PyBer in urban cities is easier due to a higher number of drivers, and cheaper for the consumer, but less lucrative for the driver. On the other end of the spectrum, driving for PyBer is very lucrative for the fewer number of drivers in rural cities, but it is much more expensive for consumers there and not as highly utilized.
+
+### Recommendations for Addressing Disparities
+
 To address the disparities among the city types, I would recommend the following:
 - Advertise the higher average fare per driver in suburban and rural areas to drivers in urban areas, to incentivize them to serve those areas and increase the number of drivers there;
 - Offset the cost of using PyBer in rural or suburban areas to decrease the cost to the passenger, to increase usage in those areas alongside increasing driver availability;
