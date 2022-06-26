@@ -37,4 +37,7 @@ After uncovering the initial differences in rides, drivers, and fares by city ty
 
 ## Summary
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+To address the disparities among the city types, I would recommend the following:
+- Advertise the higher average fare per driver in suburban and rural areas to drivers in urban areas, to incentivize them to serve those areas and increase the number of drivers there;
+- Offset the cost of using PyBer in rural or suburban areas to decrease the cost to the passenger, to increase usage in those areas alongside increasing driver availability;
+- Increase the cost of using PyBer in urban areas to keep revenue high there and to subsidize the decrease in cost for suburban and rural areas.
